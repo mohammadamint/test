@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.1">
   <diagram name="Page-1" id="WPpZJfMJTmWMVJod0Qd_">
-    <mxGraphModel dx="862" dy="1478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1477" dy="1749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,11 +52,20 @@
         <mxCell id="iWcmuNhnE22Qy_n3SRqi-8" value="PECD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iWcmuNhnE22Qy_n3SRqi-9" value="Availability Profiles for Wind and PV" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iWcmuNhnE22Qy_n3SRqi-9" value="Availability factors for Wind and PV" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iWcmuNhnE22Qy_n3SRqi-11" value="Scenario Custom Constraint" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iWcmuNhnE22Qy_n3SRqi-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iWcmuNhnE22Qy_n3SRqi-15" target="iWcmuNhnE22Qy_n3SRqi-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iWcmuNhnE22Qy_n3SRqi-15" value="Euro-Calliope" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iWcmuNhnE22Qy_n3SRqi-16" value="Availability factors for hydro" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="330" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
