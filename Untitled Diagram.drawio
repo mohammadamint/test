@@ -4,14 +4,20 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="JA-8IfDikwryvuSQAZaI-1" value="Calliope" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="310" width="120" height="60" as="geometry" />
+        <mxCell id="JA-8IfDikwryvuSQAZaI-1" value="Calliope" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="330" width="250" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="JA-8IfDikwryvuSQAZaI-2" value="TYNDP 2024" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="360" width="120" height="60" as="geometry" />
+        <mxCell id="JA-8IfDikwryvuSQAZaI-2" value="PECD" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JA-8IfDikwryvuSQAZaI-3" value="TYNDP 2024" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="260" width="120" height="60" as="geometry" />
+        <mxCell id="JA-8IfDikwryvuSQAZaI-3" value="Total Annual Electric Hydrogen Supply" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iWcmuNhnE22Qy_n3SRqi-1" value="TYNDP 2024" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iWcmuNhnE22Qy_n3SRqi-2" value="Hourly Electricity Demand" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="100" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
